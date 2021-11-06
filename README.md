@@ -2,5 +2,5 @@
 - 👀 I’m interested in ⚙️ algorithms and C programming.
 - 📕 I’m currently learning the concepts of 🗄 database systems.
 - 💞️ I’m looking to collaborate on 📚 [libcborg](https://github.com/cborgdb/libcborg) and [cborgDB](https://github.com/cborgdb/cborg).
-- 🧠 If you are interested in database systems concepts and would like to contribute to cborgDB, you can join us on [Discord](https://discord.gg/hmgnCd7NQW) !
+- 🧠 If you are interested in database systems concepts and would like to contribute to cborgDB, you can join us on [Discord](https://discord.gg/WDxhUD92bf) !
 - 📫 I can be reached via 💌 abenhlal@cborgdb.com
